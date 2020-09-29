@@ -1,0 +1,4 @@
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\OOP Exercise 10\OOP Exercise 10\obj\Debug\netcoreapp2.1\OOP Exercise 10.csprojAssemblyReference.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\OOP Exercise 10\OOP Exercise 10\obj\Debug\netcoreapp2.1\OOP Exercise 10.csproj.CoreCompileInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\OOP Exercise 10\OOP Exercise 10\obj\Debug\netcoreapp2.1\OOP Exercise 10.AssemblyInfoInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\OOP Exercise 10\OOP Exercise 10\obj\Debug\netcoreapp2.1\OOP Exercise 10.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\bin\Debug\Student Grades Manager 1.exe.config
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\bin\Debug\Student Grades Manager 1.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\bin\Debug\Student Grades Manager 1.pdb
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\obj\Debug\Student Grades Manager 1.csprojAssemblyReference.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\obj\Debug\Student Grades Manager 1.csproj.CoreCompileInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\obj\Debug\Student Grades Manager 1.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Student Grades Manager 1\Student Grades Manager 1\obj\Debug\Student Grades Manager 1.pdb

@@ -1,0 +1,10 @@
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.csprojAssemblyReference.cache
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.Form1.resources
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.Properties.Resources.resources
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.csproj.GenerateResource.cache
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.csproj.CoreCompileInputs.cache
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\bin\Debug\Project3_McEwen.exe.config
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\bin\Debug\Project3_McEwen.exe
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\bin\Debug\Project3_McEwen.pdb
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.exe
+C:\Users\mcew3231\OneDrive for Business\UNC\BACS287\Project3_McEwen\Project3_McEwen\obj\Debug\Project3_McEwen.pdb

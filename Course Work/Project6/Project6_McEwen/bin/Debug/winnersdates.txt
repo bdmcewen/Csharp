@@ -1,0 +1,52 @@
+2018,Philadelphia
+2017,New England
+2016,Denver
+2015,New England
+2014,Seattle
+2013,Baltimore
+2012,New York
+2011,Green Bay
+2010,New Orleans
+2009,Pittsburgh
+2008,New York
+2007,Indianapolis
+2006,Pittsburgh
+2005,New England
+2004,New England
+2003,Tampa Bay
+2002,New England
+2001,Baltimore
+2000,St Louis
+1999,Denver
+1998,Denver
+1997,Green Bay
+1996,Pittsburgh
+1995,San Francisco
+1994,Dallas
+1993,Dallas
+1992,Washington
+1991,NY Giants
+1990,San Francisco
+1989,San Francisco
+1988,Washington
+1987,NY Giants
+1986,Chicago
+1985,San Francisco
+1984,LA Raiders
+1983,Washington
+1982,San Francisco
+1981,Oakland
+1980,Pittsburgh
+1979,Pittsburgh
+1978,Dallas
+1977,Oakland
+1976,Pittsburgh
+1975,Pittsburgh
+1974,Miami
+1973,Miami
+1972,Dallas
+1971,Baltimore
+1970,Kansas City
+1969,Jets
+1968,Green Bay
+1967,Green Bay

@@ -1,0 +1,7 @@
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\bin\Debug\McEwen_Letters and Numbers.exe.config
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\bin\Debug\McEwen_Letters and Numbers.exe
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\bin\Debug\McEwen_Letters and Numbers.pdb
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\obj\Debug\McEwen_Letters and Numbers.csprojAssemblyReference.cache
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\obj\Debug\McEwen_Letters and Numbers.csproj.CoreCompileInputs.cache
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\obj\Debug\McEwen_Letters and Numbers.exe
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\McEwen_Letters and Numbers\McEwen_Letters and Numbers\obj\Debug\McEwen_Letters and Numbers.pdb

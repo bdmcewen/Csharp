@@ -1,0 +1,7 @@
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\bin\Debug\Console Menu.exe.config
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\bin\Debug\Console Menu.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\bin\Debug\Console Menu.pdb
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\obj\Debug\Console Menu.csprojAssemblyReference.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\obj\Debug\Console Menu.csproj.CoreCompileInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\obj\Debug\Console Menu.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Console Menu\Console Menu\obj\Debug\Console Menu.pdb

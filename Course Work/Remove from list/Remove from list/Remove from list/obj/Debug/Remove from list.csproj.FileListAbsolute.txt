@@ -1,0 +1,7 @@
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\bin\Debug\Remove from list.exe.config
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\bin\Debug\Remove from list.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\bin\Debug\Remove from list.pdb
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\obj\Debug\Remove from list.csprojAssemblyReference.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\obj\Debug\Remove from list.csproj.CoreCompileInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\obj\Debug\Remove from list.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Remove from list\Remove from list\obj\Debug\Remove from list.pdb

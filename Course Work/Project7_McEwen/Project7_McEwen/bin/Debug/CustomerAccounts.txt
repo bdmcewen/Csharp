@@ -1,0 +1,6 @@
+Ben,40,mcew3231@bears.edu,Blahblah,,
+John,25,doe6498@bears.edu,JohnDoe,,
+Phil,40,phil@unco.edu,************,,
+jim,15,jim@bears.edu,jimbob,,
+Kim,18,kim@bears.edu,Kimmy,,
+Jerry,23,jerry@aims.edu,Jerry,,

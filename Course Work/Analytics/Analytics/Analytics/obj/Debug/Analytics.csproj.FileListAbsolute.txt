@@ -1,0 +1,7 @@
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\obj\Debug\Analytics.csprojAssemblyReference.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\obj\Debug\Analytics.csproj.CoreCompileInputs.cache
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\bin\Debug\Analytics.exe.config
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\bin\Debug\Analytics.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\bin\Debug\Analytics.pdb
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\obj\Debug\Analytics.exe
+D:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Analytics\Analytics\obj\Debug\Analytics.pdb

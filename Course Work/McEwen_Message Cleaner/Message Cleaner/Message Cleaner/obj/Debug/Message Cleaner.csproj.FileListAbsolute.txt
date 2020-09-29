@@ -1,0 +1,7 @@
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\bin\Debug\Message Cleaner.exe.config
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\bin\Debug\Message Cleaner.exe
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\bin\Debug\Message Cleaner.pdb
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\obj\Debug\Message Cleaner.csprojAssemblyReference.cache
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\obj\Debug\Message Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\obj\Debug\Message Cleaner.exe
+C:\Users\bdmce\OneDrive - University of Northern Colorado\UNC\Spring 2019\BACS_387\Message Cleaner\Message Cleaner\obj\Debug\Message Cleaner.pdb

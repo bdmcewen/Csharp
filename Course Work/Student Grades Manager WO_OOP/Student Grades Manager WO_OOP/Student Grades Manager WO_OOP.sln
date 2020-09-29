@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Grades Manager WO_OOP", "Student Grades Manager WO_OOP\Student Grades Manager WO_OOP.csproj", "{7E8E7F9A-54C3-42B0-B00F-D2874B9CB241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8E7F9A-54C3-42B0-B00F-D2874B9CB241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E7F9A-54C3-42B0-B00F-D2874B9CB241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E7F9A-54C3-42B0-B00F-D2874B9CB241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E7F9A-54C3-42B0-B00F-D2874B9CB241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AEEDA7-2EAF-44FE-B053-C587472B284D}
+	EndGlobalSection
+EndGlobal

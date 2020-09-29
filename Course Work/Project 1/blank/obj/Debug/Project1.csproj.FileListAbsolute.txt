@@ -1,0 +1,10 @@
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\blank.frm_Project.resources
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\blank.Properties.Resources.resources
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\mcew3231\Documents\blank\blank\bin\Debug\blank.exe.config
+C:\Users\mcew3231\Documents\blank\blank\bin\Debug\blank.exe
+C:\Users\mcew3231\Documents\blank\blank\bin\Debug\blank.pdb
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\blank.exe
+C:\Users\mcew3231\Documents\blank\blank\obj\Debug\blank.pdb
